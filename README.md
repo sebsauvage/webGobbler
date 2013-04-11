@@ -6,7 +6,7 @@ What is it ?
 
 webGobbler is a generative art program. It creates pictures by assembling random images from the web. Think of it as attempt to capture the chaos of the human activity, which the internet is a partial and subjective snapshot of.
 
-You can use it to create a cool CD case, get an everchanging wallpaper, make an original poster for you wall, get material for you art project... or just relax.
+You can use it to create a cool CD case, get an everchanging wallpaper, make an original poster for you wall, get material for your art project... or just relax.
 
 webGobbler runs as a GUI application or in command-line mode. It can work as a simple image generator, a webpage generator, a wallpaper changer, a screensaver...
 
