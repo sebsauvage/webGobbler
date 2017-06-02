@@ -30,7 +30,7 @@ Usage
 Note
 ====
 
-This code is 9 years old, rather ugly and really *REALLY* deserves refactoring. It's also not fully tested. Please be indulgent.
+This code is 13 years old, rather ugly and really *REALLY* deserves refactoring. Please be indulgent. Also note that due to website changes, only the Yahoo crawler works (DeviantArt, AskJeeves, Flickr and Google crawler do not work anymore).
 
 
 Licence
